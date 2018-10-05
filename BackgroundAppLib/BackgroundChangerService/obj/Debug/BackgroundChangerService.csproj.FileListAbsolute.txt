@@ -1,0 +1,8 @@
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundChangerService\bin\Debug\BackgroundChangerService.exe.config
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundChangerService\bin\Debug\BackgroundChangerService.exe
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundChangerService\bin\Debug\BackgroundChangerService.pdb
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundChangerService\bin\Debug\BackgroundAppLib.dll
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundChangerService\bin\Debug\BackgroundAppLib.pdb
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundChangerService\obj\Debug\BackgroundChangerService.csprojResolveAssemblyReference.cache
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundChangerService\obj\Debug\BackgroundChangerService.exe
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundChangerService\obj\Debug\BackgroundChangerService.pdb

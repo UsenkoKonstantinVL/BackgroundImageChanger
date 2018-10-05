@@ -1,0 +1,8 @@
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundAppLib\bin\Debug\BackgroundAppLib.dll
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundAppLib\bin\Debug\BackgroundAppLib.pdb
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundAppLib\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundAppLib\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundAppLib\bin\Debug\HtmlAgilityPack.xml
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundAppLib\obj\Debug\BackgroundAppLib.csprojResolveAssemblyReference.cache
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundAppLib\obj\Debug\BackgroundAppLib.dll
+D:\Projects\Desktop\DesktopBackground\BackgroundAppLib\BackgroundAppLib\obj\Debug\BackgroundAppLib.pdb
